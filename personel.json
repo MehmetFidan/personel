@@ -1,0 +1,16 @@
+{
+	"personel":[
+		{
+			"id":1,
+			"name":"Özgürcük1"
+		},
+		{
+			"id":2,
+			"name":"Özgürcük2"
+		},
+		{
+			"id":3,
+			"name":"Özgürcük3"
+		}
+	]
+}
